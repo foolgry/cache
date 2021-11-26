@@ -1,4 +1,4 @@
 # cache
-php cahce
+php cache
 
 
