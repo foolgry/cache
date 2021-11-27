@@ -1,0 +1,21 @@
+{
+    "name": "foolgry/cache",
+    "description": "php cache",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "foolgry\\": "src/"
+        },
+        "files": [
+            "shortcut.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "foolgry",
+            "email": "981852406@qq.com"
+        }
+    ],
+    "require": {}
+}
